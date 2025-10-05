@@ -23,7 +23,6 @@ function SkillTree() {
   const { hoveredNodeId, handleHoverChange } = useTreeInteraction();
 
   useSkillTreeData(SKILL_TREE_URL);
-  console.log("URL used:", SKILL_TREE_URL);
 
   const handleAchievementClick = useCallback(
     (id: string) => {
