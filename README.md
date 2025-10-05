@@ -1,5 +1,11 @@
 # Minecraft Skill Tree Front
 
+[![Deploy Status](https://img.shields.io/badge/Deploy-Live%20on%20AWS%20Amplify-success?logo=amazonaws&logoColor=white)](https://main.d2rnw81nncbps6.amplifyapp.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-18.3-61dafb?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.3-646CFF?logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.2-764ABC?logo=redux&logoColor=white)
+
 Interfaz web que visualiza un árbol de logros/skills inspirado en Minecraft. Consume un JSON con una jerarquía de logros, lo normaliza y permite marcar progreso con reglas simples de dependencias.
 
 ## Características principales
